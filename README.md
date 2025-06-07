@@ -11,17 +11,7 @@ Aplicação web interativa de adivinhação utilizando arquitetura **100% server
 
 ## 🏗️ Arquitetura da Solução
 
-```
-Usuário
-   ↓
-Frontend (Amazon S3 - Static Website Hosting)
-   ↓
-API Gateway (REST)
-   ↓
-AWS Lambda (Python)
-   ↓
-Resposta com a lógica do jogo
-```
+  ![Arquitetura](assets/arquitetura.png)
 
 ### ✅ Benefícios:
 
