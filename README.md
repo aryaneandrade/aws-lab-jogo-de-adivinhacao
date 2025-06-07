@@ -45,20 +45,6 @@ Resposta com a lógica do jogo
 
 ---
 
-## ⚙️ Estrutura do Projeto
-
-```
-├── frontend/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-├── lambda/
-│   └── lambda_function.py
-└── README.md
-```
-
----
-
 ## 🚀 Passo a Passo para Deploy
 
 ### ✅ Pré-requisitos
